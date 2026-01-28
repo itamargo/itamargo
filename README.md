@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @itamargo
-- 👀 I’m interested in using people data to make work more human
-- 🌱 I’m currently learning data analysis and visualization in Python and R
-- 💞️ I’m looking to collaborate on people analytics projects
-- 📫 How to reach me here
+- 👀 I'm an expert generalist who loves solving human puzzles
+- 🌱 While I started my career as a software engineer, I'm now experiencing a building Renaissance with the amazing things AI agents allow me to create 
+- 💞️ I’m looking to collaborate on projects at the intersection of AI and Knowledge Work
+
 
 <!---
 itamargo/itamargo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
